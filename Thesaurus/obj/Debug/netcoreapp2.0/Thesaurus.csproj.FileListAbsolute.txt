@@ -1,0 +1,10 @@
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/bin/Debug/netcoreapp2.0/Thesaurus.deps.json
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/bin/Debug/netcoreapp2.0/Thesaurus.runtimeconfig.json
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/bin/Debug/netcoreapp2.0/Thesaurus.runtimeconfig.dev.json
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/bin/Debug/netcoreapp2.0/Thesaurus.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/bin/Debug/netcoreapp2.0/Thesaurus.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/obj/Debug/netcoreapp2.0/Thesaurus.csproj.CoreCompileInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/obj/Debug/netcoreapp2.0/Thesaurus.AssemblyInfoInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/obj/Debug/netcoreapp2.0/Thesaurus.AssemblyInfo.cs
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/obj/Debug/netcoreapp2.0/Thesaurus.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Thesaurus/obj/Debug/netcoreapp2.0/Thesaurus.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ADODotNetDAL\ADODotNetDAL.csproj" />
+    <ProjectReference Include="..\InterfaceDAL\InterfaceDAL.csproj" />
+    <ProjectReference Include="..\CommonDAL\CommonDAL.csproj" />
+    <ProjectReference Include="..\InterfaceSynonym\InterfaceSynonym.csproj" />
+  </ItemGroup>
+</Project>

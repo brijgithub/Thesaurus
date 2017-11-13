@@ -1,0 +1,17 @@
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/Factory.deps.json
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/Factory.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/Factory.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/ADODotNetDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/CommonDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/InterfaceDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/InterfaceSynonym.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/ADODotNetDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/InterfaceDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/CommonDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/bin/Debug/netcoreapp2.0/InterfaceSynonym.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/obj/Debug/netcoreapp2.0/Factory.csprojResolveAssemblyReference.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/obj/Debug/netcoreapp2.0/Factory.csproj.CoreCompileInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/obj/Debug/netcoreapp2.0/Factory.AssemblyInfoInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/obj/Debug/netcoreapp2.0/Factory.AssemblyInfo.cs
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/obj/Debug/netcoreapp2.0/Factory.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/Factory/obj/Debug/netcoreapp2.0/Factory.pdb

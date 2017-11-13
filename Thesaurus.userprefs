@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D7AB68B0-0419-4958-B3D2-7A569C32B941}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Thesaurus/appsettings.json">
+    <Files>
+      <File FileName="Thesaurus/Controllers/ThesaurusController.cs" Line="31" Column="35" />
+      <File FileName="InterfaceDAL/IThesaurus.cs" Line="15" Column="9" />
+      <File FileName="CommonDAL/AbstractDAL.cs" Line="16" Column="1" />
+      <File FileName="ADODotNetDAL/TemplateADO.cs" Line="165" Column="15" />
+      <File FileName="Factory/Factory.cs" Line="26" Column="1" />
+      <File FileName="Thesaurus/Program.cs" Line="1" Column="1" />
+      <File FileName="Thesaurus/Startup.cs" Line="28" Column="28" />
+      <File FileName="Thesaurus/appsettings.json" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ThesaurusWebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

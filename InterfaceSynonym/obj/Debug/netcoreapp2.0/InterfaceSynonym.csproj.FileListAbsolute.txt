@@ -1,0 +1,9 @@
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/bin/Debug/netcoreapp2.0/InterfaceSynonym.deps.json
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/bin/Debug/netcoreapp2.0/InterfaceSynonym.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/bin/Debug/netcoreapp2.0/InterfaceSynonym.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/obj/Debug/netcoreapp2.0/InterfaceSynonym.csprojResolveAssemblyReference.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/obj/Debug/netcoreapp2.0/InterfaceSynonym.csproj.CoreCompileInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/obj/Debug/netcoreapp2.0/InterfaceSynonym.AssemblyInfoInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/obj/Debug/netcoreapp2.0/InterfaceSynonym.AssemblyInfo.cs
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/obj/Debug/netcoreapp2.0/InterfaceSynonym.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceSynonym/obj/Debug/netcoreapp2.0/InterfaceSynonym.pdb

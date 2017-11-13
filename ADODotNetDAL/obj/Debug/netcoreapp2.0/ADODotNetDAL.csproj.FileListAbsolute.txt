@@ -1,0 +1,15 @@
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/ADODotNetDAL.deps.json
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/ADODotNetDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/ADODotNetDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/CommonDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/InterfaceDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/InterfaceSynonym.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/CommonDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/InterfaceSynonym.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/bin/Debug/netcoreapp2.0/InterfaceDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/obj/Debug/netcoreapp2.0/ADODotNetDAL.csprojResolveAssemblyReference.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/obj/Debug/netcoreapp2.0/ADODotNetDAL.csproj.CoreCompileInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/obj/Debug/netcoreapp2.0/ADODotNetDAL.AssemblyInfoInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/obj/Debug/netcoreapp2.0/ADODotNetDAL.AssemblyInfo.cs
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/obj/Debug/netcoreapp2.0/ADODotNetDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/ADODotNetDAL/obj/Debug/netcoreapp2.0/ADODotNetDAL.pdb

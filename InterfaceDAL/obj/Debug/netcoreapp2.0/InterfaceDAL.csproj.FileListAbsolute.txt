@@ -1,0 +1,9 @@
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/bin/Debug/netcoreapp2.0/InterfaceDAL.deps.json
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/bin/Debug/netcoreapp2.0/InterfaceDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/bin/Debug/netcoreapp2.0/InterfaceDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/obj/Debug/netcoreapp2.0/InterfaceDAL.csproj.CoreCompileInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/obj/Debug/netcoreapp2.0/InterfaceDAL.AssemblyInfoInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/obj/Debug/netcoreapp2.0/InterfaceDAL.AssemblyInfo.cs
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/obj/Debug/netcoreapp2.0/InterfaceDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/obj/Debug/netcoreapp2.0/InterfaceDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/InterfaceDAL/obj/Debug/netcoreapp2.0/InterfaceDAL.csprojResolveAssemblyReference.cache

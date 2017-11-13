@@ -1,0 +1,11 @@
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/bin/Debug/netcoreapp2.0/CommonDAL.deps.json
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/bin/Debug/netcoreapp2.0/CommonDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/bin/Debug/netcoreapp2.0/CommonDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/bin/Debug/netcoreapp2.0/InterfaceDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/bin/Debug/netcoreapp2.0/InterfaceDAL.pdb
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/obj/Debug/netcoreapp2.0/CommonDAL.csprojResolveAssemblyReference.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/obj/Debug/netcoreapp2.0/CommonDAL.csproj.CoreCompileInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/obj/Debug/netcoreapp2.0/CommonDAL.AssemblyInfoInputs.cache
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/obj/Debug/netcoreapp2.0/CommonDAL.AssemblyInfo.cs
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/obj/Debug/netcoreapp2.0/CommonDAL.dll
+/Users/brijesh/Desktop/SampleProject/Thesaurus/CommonDAL/obj/Debug/netcoreapp2.0/CommonDAL.pdb
